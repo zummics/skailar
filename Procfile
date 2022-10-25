@@ -1,1 +1,0 @@
-web: gunicorn skailar.wsgi --log-file -
